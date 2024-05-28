@@ -48,7 +48,7 @@ const Home = () => {
             <img src={Add} alt="" className="cursor-pointer" />
             <span className="font-semibold text-blue-800">ustun qo'shish</span>
           </p>
-          <button className="bg-blue-700 px-6 py-2 rounded-lg text-white">Saqlash</button>
+          <button className="bg-blue-700 px-6 py-2 rounded-lg text-white ">Saqlash</button>
         </div>
       </div>
     </>
